@@ -1,7 +1,7 @@
 # returns-risk-prediction
 Predict high-return fashion e-commerce orders to reduce logistics losses
 
-🔹 📌 Problem → Action → Result (for README + Notion)
+🔹 📌 Problem → Action → Result 
 🧠 Problem
 Returns are a major cost for fashion e-commerce brands — due to sizing issues, delayed delivery, or mismatch between product expectations and reality. Predicting high-risk orders before delivery can help reduce unnecessary logistics costs and improve customer satisfaction.
 
